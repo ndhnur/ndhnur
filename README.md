@@ -14,12 +14,15 @@ Selamat datang di profil GitHub saya! Saya seorang pengembang web lepas (freelan
     * HTML
     * CSS
     * JavaScript
+    * PHP
+    * Python
 * **Framework dan Library:**
     * Bootstrap
     * CodeIgniter (CI)
     * Laravel
 * **Desain UI/UX:**
     * Figma
+    * Canva
 
 ## Proyek Terkini
 
