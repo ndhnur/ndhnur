@@ -1,6 +1,6 @@
 # Halo, Saya Indah Nurjanah! 
 
-Selamat datang di profil GitHub saya! Saya seorang pengembang web lepas (freelance) dan guru pemrograman yang penuh semangat. Saya memiliki pengalaman kurang dari satu tahun dalam pengembangan web dan pengajaran pemrograman.
+Selamat datang di profil GitHub saya! Saya seorang pengembang web lepas (freelance) dan guru pemrograman yang penuh semangat. Sebagai seorang pemula, saya memiliki semangat yang kuat untuk belajar maupun mengajar. Saya sedang membangun karir di pengembangan web, dan saya juga aktif mengajar koding kepada mereka yang ingin memulai perjalanan mereka di dunia teknologi. Saya percaya bahwa dengan berbagi pengetahuan, kita dapat menciptakan komunitas yang lebih kuat dan inovatif.
 
 ## Tentang Saya
 
