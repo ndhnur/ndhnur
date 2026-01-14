@@ -28,8 +28,9 @@ Selamat datang di profil GitHub saya! Saya seorang pengembang web lepas (freelan
 
 * **Apps-BaGi:** merupakan proyek tugas akhir dalam program pelatihan Bangkit oleh Google, GoTo, dan Traveloka. Proyek ini menghasilkan prototipe aplikasi seluler yang berfungsi untuk mendeteksi kelayakan barang. Dalam proyek ini, saya berperan sebagai pengembang backend, menggunakan Google Cloud SQL sebagai basis data dan Flask untuk membangun API.
 * **Aplikasi Website untuk Sistem Informasi Perpustakaan dengan menggunakan Sensor RFID:** merupakan proyek tugas akhir saya selama menempuh pendidikan D3 Teknik Telekomunikasi. Proyek ini menggabungkan pengembangan situs web dengan integrasi perangkat IoT untuk keperluan pendataan di perpustakaan Jurusan Teknik Elektro POLSRI
-* **Website Tryout - Budiwijaya Education Center:** Pengembangan situs web tryout untuk Budiwijaya Education Center menggunakan framework Laravel, dengan desain antarmuka pengguna (UI/UX) yang dirancang menggunakan Figma.
-
+* **Website Tryout - Budiwijaya Education Center:** Pengembangan situs web tryout untuk Budiwijaya Education Center menggunakan framework Laravel, dengan desain antarmuka pengguna (UI/UX) yang dirancang menggunakan Figma. URL: https://budiwijaya-official.com
+* **News Portal - PT Dela Persada Surya:** Menggunakan Wordpress untuk membangun dan memelihara portal berita perusahaan menggunakan WordPress. Bertanggung jawab atas pengaturan situs web dari awal hingga akhir, konfigurasi tema, penyesuaian tata letak, dan manajemen konten untuk mendukung penerbitan berita harian. URL: https://sniperportal.com
+* **News Portal - PT Muazzam Media Journalism:** Menggunakan Wordpress untuk membangun dan memelihara portal berita perusahaan menggunakan WordPress. Bertanggung jawab atas pengaturan situs web dari awal hingga akhir, konfigurasi tema, penyesuaian tata letak, dan manajemen konten untuk mendukung penerbitan berita harian. URL: https://hitamputihdigital.com
 ## Apa yang Bisa Anda Temukan di Sini?
 
 * Proyek-proyek pribadi saya yang menunjukkan kemampuan saya dalam pengembangan web.
